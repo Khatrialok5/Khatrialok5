@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khatrialok5
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
-- 💞️ I’m looking to collaborate on intersiting projects.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me khatrialok5@gmail.com
 
 <!---
