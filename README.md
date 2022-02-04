@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Khatrialok5
-- 👀 I’m interested in Web Development.
+- 👋 Hi, I’m Alok Khatri.
+- 👀 I’m interested in Web Development and Design.
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me khatrialok5@gmail.com
