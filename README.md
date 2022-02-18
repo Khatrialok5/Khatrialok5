@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alok Khatri.
+- ### Hi there👋, I’m Alok Khatri.
 - 👀 I’m interested in Web Development and Design.
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
 - 💞️ I’m looking to collaborate on interesting projects.
